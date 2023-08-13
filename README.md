@@ -23,10 +23,8 @@ Welcome to My Awesome To-Do List App! This application helps you organize your t
 ## Usage
 
 1. Open the app in your preferred web browser.
-2. Create a new task by clicking on the "Add Task" button.
-3. Edit tasks by clicking on them. Mark tasks as completed by checking the box.
-4. Organize tasks using priority levels, due dates, and categories.
-5. Utilize the search and filter options to manage your tasks effectively.
+2. Edit tasks by clicking on them.
+3. Create a new task by clicking on the "Add " button.
 
 ## Screenshots
 
