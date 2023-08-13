@@ -37,13 +37,9 @@ Welcome to My Awesome To-Do List App! This application helps you organize your t
 
 ## Contributing
 
-Contributions are welcome! Please follow these steps:
+Contributions are welcomome!
 
-1. Fork the repository.
-2. Create a new branch: `git checkout -b feature-new-feature`
-3. Commit your changes: `git commit -am 'Add a new feature'`
-4. Push to the branch: `git push origin feature-new-feature`
-5. Create a pull request.
+
 
 ## License
 
@@ -51,4 +47,4 @@ There is no need of licence.
 
 ---
 
-Feel free to reach out to us at [contact@example.com](mailto:contact@example.com) if you have any questions or suggestions!
+Feel free to reach out to us at [MAIL ME](mailto:harishsaifi2003@gmail.com) if you have any questions or suggestions!
